@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>][github]
 <br/>
 <br/>
-<br/>
+
 ### Tools 🔥
 
 [<img alt="PyCharm" align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332075-a4b2b580-2006-11eb-95ff-906388b38446.png"/>][github]
@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 [<img alt="Git" align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332575-94e7a100-2007-11eb-9c2b-81ad2d1d04f1.png"/>][github]
 [<img alt="GitHub" align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332622-ad57bb80-2007-11eb-8ecb-9bd68aefeef6.png"/>][github]
 
-<br/>
 <br/>
 <br/>
 

@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ### Hi there, I'm Yarin Genish 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yaringenish&style=plastic&color=brightgreen" alt="yaringenish" /> </p>
 
 ## 👨🏻‍💻 About Me
-- 🔭 I’m currently working at Cisco as a software engineer.
-- 🌱 I’m currently learning app development with Blazor anad C#.
+- 🔭 I'm a 2nd year B.Sc. Computer Science Student, from Bar-Ilan University.
+- 🌱 I’m currently learning Network security and Algorithms.
 - 🥅 2023 Goals: Contribute to an Open Source project.
 - I love learning new technologies, and deepening my knowledge of technologies I already know 🤓
 <br/>

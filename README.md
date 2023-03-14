@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="yaringenish | Facebook" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />][facebook]
 [<img align="left" alt="yaringenish | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
 <br/>
 <br/>
 
@@ -37,11 +36,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>][github]
 [<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>][github][github]
 [<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>][github]
-
 <br/>
 <br/>
 <br/>
-
 ### Tools 🔥
 
 [<img alt="PyCharm" align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332075-a4b2b580-2006-11eb-95ff-906388b38446.png"/>][github]
@@ -51,11 +48,9 @@ Here are some ideas to get you started:
 [<img alt="CLion" align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332831-1dfed800-2008-11eb-85dc-9925b457b3d4.png"/>][github]
 [<img alt="Git" align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332575-94e7a100-2007-11eb-9c2b-81ad2d1d04f1.png"/>][github]
 [<img alt="GitHub" align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332622-ad57bb80-2007-11eb-8ecb-9bd68aefeef6.png"/>][github]
-
 <br/>
 <br/>
 <br/>
-
 [facebook]: https://www.facebook.com/yarin.genish
 [instagram]: https://www.instagram.com/yaringenish
 [linkedin]: https://www.linkedin.com/in/matan-malka/

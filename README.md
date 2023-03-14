@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
-
 ### Tools 🔥
 
 [<img alt="PyCharm" align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332075-a4b2b580-2006-11eb-95ff-906388b38446.png"/>][github]

@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ## 👨🏻‍💻 About Me
 - 🔭 I'm a 2nd year B.Sc. Computer Science Student, from Bar-Ilan University.
 - 🌱 I’m currently learning Network security and Algorithms.
-<br/>
 
 ### Connect with me 📫:
 

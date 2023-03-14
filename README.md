@@ -13,41 +13,36 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matanm28&layout=compact&hide=css,html)](https://github.com/matanm28/github-readme-stats)
 -->
 ### Hi there, I'm Yarin Genish 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yaringenish&style=plastic&color=brightgreen" alt="yaringenish" /> </p>
 
 ## 👨🏻‍💻 About Me
 - 🔭 I'm a 2nd year B.Sc. Computer Science Student, from Bar-Ilan University.
 - 🌱 I’m currently learning Network security and Algorithms.
-- 🥅 2023 Goals: Contribute to an Open Source project.
-- I love learning new technologies, and deepening my knowledge of technologies I already know 🤓
 <br/>
 
 ### Connect with me 📫:
 
-[<img align="left" alt="matanm28 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="matanm28 | Facebook" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />][facebook]
-[<img align="left" alt="matanm28 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="matanm28 | Twitter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
+[<img align="left" alt="yaringenish| LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="yaringenish | Facebook" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />][facebook]
+[<img align="left" alt="yaringenish | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br/>
 <br/>
 
 ### Programming Languages 🚀
 
-[<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>][github]
-[<img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>][github]
 [<img align="left" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>][github]
 [<img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>][github]
-[<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>][github]
-[<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />][github]
+[<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>][github][github]
+[<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>][github]
 
 <br/>
 <br/>
 <br/>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matanm28&layout=compact&hide=css,html)](https://github.com/matanm28/github-readme-stats)
 
 ### Tools 🔥
 
@@ -63,13 +58,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-### 🔢 Statistics
-<br/>
-
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=matanm28&count_private=true&show_icons=true&theme=dracula)
-
-[twitter]: https://twitter.com/MatanMalka2
-[facebook]: https://www.facebook.com/mkl1888/
-[instagram]: https://www.instagram.com/matanmkl/
+[facebook]: https://www.facebook.com/yarin.genish
+[instagram]: https://www.instagram.com/yaringenish
 [linkedin]: https://www.linkedin.com/in/matan-malka/
-[github]:  https://github.com/matanm28
+[github]:  https://github.com/yaringenish

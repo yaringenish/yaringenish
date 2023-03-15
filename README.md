@@ -53,5 +53,5 @@ Here are some ideas to get you started:
 
 [facebook]: https://www.facebook.com/yarin.genish
 [instagram]: https://www.instagram.com/yaringenish
-[linkedin]: https://www.linkedin.com/in/matan-malka/
+[linkedin]: https://www.linkedin.com/in/yarin-genish
 [github]:  https://github.com/yaringenish
